@@ -1,0 +1,10 @@
+.navbar {
+    background: blue;
+    margin: 0;
+    padding: 10px;    
+} 
+
+.link {
+    text-decoration: none;
+    color: white;
+} 
